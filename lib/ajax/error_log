@@ -1,0 +1,31 @@
+[23-Sep-2023 05:27:10 America/New_York] Default exception handler: Your session has most likely timed out. Please log in again. Debug: 
+Error code: invalidsesskey
+* line 33 of /lib/ajax/setuserpref.php: moodle_exception thrown
+
+[25-Sep-2023 22:36:22 America/New_York] Default exception handler: Your session has most likely timed out. Please log in again. Debug: 
+Error code: invalidsesskey
+* line 33 of /lib/ajax/setuserpref.php: moodle_exception thrown
+
+[21-Oct-2023 20:52:53 Asia/Colombo] Default exception handler: A required parameter (sesskey) was missing Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 73 of /lib/sessionlib.php: call to required_param()
+* line 32 of /lib/ajax/setuserpref.php: call to confirm_sesskey()
+
+[21-Oct-2023 20:52:53 Asia/Colombo] Default exception handler: Your session has most likely timed out. Please log in again. Debug: 
+Error code: invalidsesskey
+* line 33 of /lib/ajax/setuserpref.php: moodle_exception thrown
+
+[21-Oct-2023 20:52:55 Asia/Colombo] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2763 of /lib/moodlelib.php: require_login_exception thrown
+* line 32 of /lib/ajax/getsiteadminbranch.php: call to require_login()
+
+[21-Oct-2023 20:52:55 Asia/Colombo] Default exception handler: Coding error detected, it must be fixed by a programmer: Error: A required parameter (id) was missing Debug: 
+Error code: codingerror
+* line 120 of /lib/ajax/getnavbranch.php: coding_exception thrown
+
+[21-Oct-2023 20:52:59 Asia/Colombo] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid json in request: Syntax error Debug: 
+Error code: codingerror
+* line 65 of /lib/ajax/service.php: coding_exception thrown
+

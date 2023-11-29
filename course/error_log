@@ -1,0 +1,44 @@
+[17-Aug-2023 08:44:24 America/New_York] instantiating backup controller 24cc68292e6badb1aeb07f93b25e9381
+[17-Aug-2023 08:44:24 America/New_York] setting controller status to 100
+[17-Aug-2023 08:44:24 America/New_York] loading controller plan
+[17-Aug-2023 08:44:26 America/New_York] setting controller status to 300
+[17-Aug-2023 08:44:26 America/New_York] applying plan defaults
+[17-Aug-2023 08:44:26 America/New_York] setting controller status to 400
+[17-Aug-2023 08:44:26 America/New_York] setting file inclusion to 
+[17-Aug-2023 08:44:26 America/New_York] checking plan security
+[17-Aug-2023 08:44:26 America/New_York] setting controller status to 700
+[17-Aug-2023 08:44:26 America/New_York] saving controller to db
+[17-Aug-2023 08:44:26 America/New_York] calculating controller checksum 2d4f3defd96c37799240c84c57dbca9d
+[17-Aug-2023 08:44:26 America/New_York] loading controller from db
+[17-Aug-2023 08:44:26 America/New_York] setting file inclusion to 1
+[17-Aug-2023 08:44:26 America/New_York] setting controller status to 800
+[17-Aug-2023 08:44:26 America/New_York] saving controller to db
+[17-Aug-2023 08:44:26 America/New_York] calculating controller checksum a3cd8e551541a304785e90cb3399ce2a
+[17-Aug-2023 08:44:26 America/New_York] loading controller from db
+[17-Aug-2023 08:44:45 America/New_York] setting controller status to 1000
+[17-Aug-2023 08:44:45 America/New_York] saving controller to db
+[24-Aug-2023 04:35:52 America/New_York] Default exception handler: කනගාටුයි, නමුත් ඒ සදහා (පාඨමාලා සීටුවම් යාවත්කාලීන කිරීම) දැනට ඔබට අවසර නොමැත. Debug: 
+Error code: nopermissions
+* line 875 of /lib/accesslib.php: required_capability_exception thrown
+* line 94 of /course/edit.php: call to require_capability()
+
+[07-Sep-2023 18:45:56 America/New_York] Default exception handler: Must specify course id, short name or idnumber Debug: 
+Error code: unspecifycourseid
+* line 54 of /course/view.php: moodle_exception thrown
+
+[25-Sep-2023 00:52:16 America/New_York] Default exception handler: කනගාටුයි, නමුත් ඒ සදහා (ක්‍රියාකාරකම් කළමනාකරණය) දැනට ඔබට අවසර නොමැත. Debug: 
+Error code: nopermissions
+* line 875 of /lib/accesslib.php: required_capability_exception thrown
+* line 508 of /course/modlib.php: call to require_capability()
+* line 855 of /course/modlib.php: call to can_add_moduleinfo()
+* line 73 of /course/modedit.php: call to prepare_new_moduleinfo_data()
+
+[21-Oct-2023 20:52:55 Asia/Colombo] Default exception handler: Must specify course id, short name or idnumber Debug: 
+Error code: unspecifycourseid
+* line 54 of /course/view.php: moodle_exception thrown
+
+[21-Oct-2023 20:52:59 Asia/Colombo] Default exception handler: A required parameter (course) was missing Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 31 of /course/dndupload.php: call to required_param()
+

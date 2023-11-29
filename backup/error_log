@@ -1,0 +1,209 @@
+[07-Sep-2023 01:45:30 America/New_York] instantiating backup controller 023c6d754241f57dcc80d571743450f1
+[07-Sep-2023 01:45:30 America/New_York] setting controller status to 100
+[07-Sep-2023 01:45:30 America/New_York] loading controller plan
+[07-Sep-2023 01:45:30 America/New_York] setting controller status to 300
+[07-Sep-2023 01:45:30 America/New_York] applying plan defaults
+[07-Sep-2023 01:45:30 America/New_York] setting controller status to 400
+[07-Sep-2023 01:45:30 America/New_York] setting file inclusion to 
+[07-Sep-2023 01:45:30 America/New_York] checking plan security
+[07-Sep-2023 01:45:30 America/New_York] setting controller status to 500
+[07-Sep-2023 01:45:30 America/New_York] checking plan security
+[07-Sep-2023 01:45:30 America/New_York] checking plan security
+[07-Sep-2023 01:45:30 America/New_York] checking plan security
+[07-Sep-2023 01:45:30 America/New_York] saving controller to db
+[07-Sep-2023 01:45:30 America/New_York] calculating controller checksum 0cd992a27079473e33f6b17ccb1ddab7
+[07-Sep-2023 01:47:01 America/New_York] instantiating backup controller fb54997ff5159a0a9e4e86cf5caf66bb
+[07-Sep-2023 01:47:01 America/New_York] setting controller status to 100
+[07-Sep-2023 01:47:01 America/New_York] loading controller plan
+[07-Sep-2023 01:47:01 America/New_York] setting controller status to 300
+[07-Sep-2023 01:47:01 America/New_York] applying plan defaults
+[07-Sep-2023 01:47:01 America/New_York] setting controller status to 400
+[07-Sep-2023 01:47:01 America/New_York] setting file inclusion to 
+[07-Sep-2023 01:47:01 America/New_York] checking plan security
+[07-Sep-2023 01:47:01 America/New_York] setting controller status to 500
+[07-Sep-2023 01:47:01 America/New_York] checking plan security
+[07-Sep-2023 01:47:01 America/New_York] checking plan security
+[07-Sep-2023 01:47:01 America/New_York] checking plan security
+[07-Sep-2023 01:47:01 America/New_York] saving controller to db
+[07-Sep-2023 01:47:01 America/New_York] calculating controller checksum 68d427c7e0b0f59d98667cd9af95df3e
+[07-Sep-2023 02:58:10 America/New_York] loading controller from db
+[07-Sep-2023 02:58:10 America/New_York] checking plan security
+[07-Sep-2023 02:58:10 America/New_York] checking plan security
+[07-Sep-2023 02:58:10 America/New_York] setting controller status to 700
+[07-Sep-2023 02:58:10 America/New_York] saving controller to db
+[07-Sep-2023 02:58:10 America/New_York] calculating controller checksum 947983137666a3384ab4f3b9887f7d83
+[07-Sep-2023 02:58:10 America/New_York] loading controller from db
+[07-Sep-2023 02:58:10 America/New_York] setting file inclusion to 1
+[07-Sep-2023 02:58:10 America/New_York] setting controller status to 800
+[07-Sep-2023 02:58:10 America/New_York] saving controller to db
+[07-Sep-2023 02:58:10 America/New_York] calculating controller checksum f4d80770a96525aa2403534a0c63c166
+[07-Sep-2023 02:58:10 America/New_York] loading controller from db
+[07-Sep-2023 02:58:11 America/New_York] setting controller status to 1000
+[07-Sep-2023 02:58:11 America/New_York] saving controller to db
+[07-Sep-2023 03:04:09 America/New_York] instantiating backup controller a3472ee12aaac0c27dd0d74912216b7c
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 100
+[07-Sep-2023 03:04:09 America/New_York] loading controller plan
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 300
+[07-Sep-2023 03:04:09 America/New_York] applying plan defaults
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 400
+[07-Sep-2023 03:04:09 America/New_York] setting file inclusion to 
+[07-Sep-2023 03:04:09 America/New_York] checking plan security
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 500
+[07-Sep-2023 03:04:09 America/New_York] checking plan security
+[07-Sep-2023 03:04:09 America/New_York] checking plan security
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 700
+[07-Sep-2023 03:04:09 America/New_York] saving controller to db
+[07-Sep-2023 03:04:09 America/New_York] calculating controller checksum f19a0cdd25a2cd918cf3262738b3088a
+[07-Sep-2023 03:04:09 America/New_York] loading controller from db
+[07-Sep-2023 03:04:09 America/New_York] setting file inclusion to 1
+[07-Sep-2023 03:04:09 America/New_York] setting controller status to 800
+[07-Sep-2023 03:04:09 America/New_York] saving controller to db
+[07-Sep-2023 03:04:09 America/New_York] calculating controller checksum 3ec62800ec44839c00a30da1e9654ae4
+[07-Sep-2023 03:04:09 America/New_York] loading controller from db
+[07-Sep-2023 03:04:10 America/New_York] setting controller status to 1000
+[07-Sep-2023 03:04:10 America/New_York] saving controller to db
+[07-Sep-2023 03:04:47 America/New_York] instantiating backup controller ac653ad8db0b060b743b8db81332b4a0
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 100
+[07-Sep-2023 03:04:47 America/New_York] loading controller plan
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 300
+[07-Sep-2023 03:04:47 America/New_York] applying plan defaults
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 400
+[07-Sep-2023 03:04:47 America/New_York] setting file inclusion to 
+[07-Sep-2023 03:04:47 America/New_York] checking plan security
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 500
+[07-Sep-2023 03:04:47 America/New_York] checking plan security
+[07-Sep-2023 03:04:47 America/New_York] checking plan security
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 700
+[07-Sep-2023 03:04:47 America/New_York] saving controller to db
+[07-Sep-2023 03:04:47 America/New_York] calculating controller checksum fb3bc2bb3d18595dd4d0ddba2a8a925b
+[07-Sep-2023 03:04:47 America/New_York] loading controller from db
+[07-Sep-2023 03:04:47 America/New_York] setting file inclusion to 1
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 800
+[07-Sep-2023 03:04:47 America/New_York] saving controller to db
+[07-Sep-2023 03:04:47 America/New_York] calculating controller checksum f35f210379fcbea69fbfa0ce5094fde1
+[07-Sep-2023 03:04:47 America/New_York] loading controller from db
+[07-Sep-2023 03:04:47 America/New_York] setting controller status to 1000
+[07-Sep-2023 03:04:47 America/New_York] saving controller to db
+[07-Sep-2023 03:04:52 America/New_York] instantiating backup controller b355b63bec6ca6e5686de86d111e8659
+[07-Sep-2023 03:04:52 America/New_York] setting controller status to 100
+[07-Sep-2023 03:04:52 America/New_York] loading controller plan
+[07-Sep-2023 03:04:52 America/New_York] setting controller status to 300
+[07-Sep-2023 03:04:52 America/New_York] applying plan defaults
+[07-Sep-2023 03:04:52 America/New_York] setting controller status to 400
+[07-Sep-2023 03:04:52 America/New_York] setting file inclusion to 
+[07-Sep-2023 03:04:52 America/New_York] checking plan security
+[07-Sep-2023 03:04:52 America/New_York] setting controller status to 500
+[07-Sep-2023 03:04:52 America/New_York] checking plan security
+[07-Sep-2023 03:04:52 America/New_York] checking plan security
+[07-Sep-2023 03:04:52 America/New_York] checking plan security
+[07-Sep-2023 03:04:52 America/New_York] saving controller to db
+[07-Sep-2023 03:04:52 America/New_York] calculating controller checksum 188c50886acaaffc3c2f19790fbf6cbf
+[07-Sep-2023 03:09:42 America/New_York] loading controller from db
+[07-Sep-2023 03:09:42 America/New_York] checking plan security
+[07-Sep-2023 03:09:42 America/New_York] checking plan security
+[07-Sep-2023 03:09:42 America/New_York] setting controller status to 700
+[07-Sep-2023 03:09:42 America/New_York] saving controller to db
+[07-Sep-2023 03:09:42 America/New_York] calculating controller checksum 6c97fb6188ac69021816be3e23d79a68
+[07-Sep-2023 03:09:42 America/New_York] loading controller from db
+[07-Sep-2023 03:09:42 America/New_York] setting file inclusion to 1
+[07-Sep-2023 03:09:42 America/New_York] setting controller status to 800
+[07-Sep-2023 03:09:42 America/New_York] saving controller to db
+[07-Sep-2023 03:09:42 America/New_York] calculating controller checksum abb9f790beb787a57d548fb02fb51c8d
+[07-Sep-2023 03:09:42 America/New_York] loading controller from db
+[07-Sep-2023 03:09:43 America/New_York] setting controller status to 1000
+[07-Sep-2023 03:09:43 America/New_York] saving controller to db
+[07-Sep-2023 03:09:56 America/New_York] Default exception handler: A required parameter (id) was missing {missingparam/error} Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 37 of /backup/backup.php: call to required_param()
+
+[07-Sep-2023 03:11:42 America/New_York] instantiating backup controller f0af7258ee960ff445124f0671d22a39
+[07-Sep-2023 03:11:42 America/New_York] setting controller status to 100
+[07-Sep-2023 03:11:42 America/New_York] loading controller plan
+[07-Sep-2023 03:11:42 America/New_York] setting controller status to 300
+[07-Sep-2023 03:11:42 America/New_York] applying plan defaults
+[07-Sep-2023 03:11:42 America/New_York] setting controller status to 400
+[07-Sep-2023 03:11:42 America/New_York] setting file inclusion to 
+[07-Sep-2023 03:11:42 America/New_York] checking plan security
+[07-Sep-2023 03:11:42 America/New_York] setting controller status to 500
+[07-Sep-2023 03:11:42 America/New_York] checking plan security
+[07-Sep-2023 03:11:42 America/New_York] checking plan security
+[07-Sep-2023 03:11:42 America/New_York] checking plan security
+[07-Sep-2023 03:11:42 America/New_York] saving controller to db
+[07-Sep-2023 03:11:42 America/New_York] calculating controller checksum 627561da4e6fd3512412f1b0719afffa
+[07-Sep-2023 03:12:05 America/New_York] Default exception handler: A required parameter (id) was missing {missingparam/error} Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 37 of /backup/backup.php: call to required_param()
+
+[03-Oct-2023 11:53:20 Asia/Colombo] instantiating backup controller 5b91cec7e38ff3483d3064daa7d8c377
+[03-Oct-2023 11:53:21 Asia/Colombo] setting controller status to 100
+[03-Oct-2023 11:53:21 Asia/Colombo] loading controller plan
+[03-Oct-2023 11:53:21 Asia/Colombo] setting controller status to 300
+[03-Oct-2023 11:53:21 Asia/Colombo] applying plan defaults
+[03-Oct-2023 11:53:21 Asia/Colombo] setting controller status to 400
+[03-Oct-2023 11:53:21 Asia/Colombo] setting file inclusion to 
+[03-Oct-2023 11:53:21 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:21 Asia/Colombo] setting controller status to 500
+[03-Oct-2023 11:53:21 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:21 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:21 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:21 Asia/Colombo] saving controller to db
+[03-Oct-2023 11:53:21 Asia/Colombo] calculating controller checksum 94260e366e2b2a333f985184817711ea
+[03-Oct-2023 11:53:43 Asia/Colombo] instantiating backup controller 1d77d453471dbe8a524147f03886aaa6
+[03-Oct-2023 11:53:43 Asia/Colombo] setting controller status to 100
+[03-Oct-2023 11:53:43 Asia/Colombo] loading controller plan
+[03-Oct-2023 11:53:43 Asia/Colombo] setting controller status to 300
+[03-Oct-2023 11:53:43 Asia/Colombo] applying plan defaults
+[03-Oct-2023 11:53:43 Asia/Colombo] setting controller status to 400
+[03-Oct-2023 11:53:43 Asia/Colombo] setting file inclusion to 
+[03-Oct-2023 11:53:43 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:43 Asia/Colombo] setting controller status to 500
+[03-Oct-2023 11:53:43 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:43 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:43 Asia/Colombo] checking plan security
+[03-Oct-2023 11:53:43 Asia/Colombo] saving controller to db
+[03-Oct-2023 11:53:43 Asia/Colombo] calculating controller checksum 14b8437a3bb537e87f197209d1ae952f
+[03-Oct-2023 12:09:55 Asia/Colombo] instantiating backup controller 15a07d93a9d8bc048b3271935bd5ff35
+[03-Oct-2023 12:09:55 Asia/Colombo] setting controller status to 100
+[03-Oct-2023 12:09:55 Asia/Colombo] loading controller plan
+[03-Oct-2023 12:09:55 Asia/Colombo] setting controller status to 300
+[03-Oct-2023 12:09:55 Asia/Colombo] applying plan defaults
+[03-Oct-2023 12:09:55 Asia/Colombo] setting controller status to 400
+[03-Oct-2023 12:09:55 Asia/Colombo] setting file inclusion to 
+[03-Oct-2023 12:09:55 Asia/Colombo] checking plan security
+[03-Oct-2023 12:09:55 Asia/Colombo] setting controller status to 500
+[03-Oct-2023 12:09:55 Asia/Colombo] checking plan security
+[03-Oct-2023 12:09:55 Asia/Colombo] checking plan security
+[03-Oct-2023 12:09:55 Asia/Colombo] checking plan security
+[03-Oct-2023 12:09:55 Asia/Colombo] saving controller to db
+[03-Oct-2023 12:09:55 Asia/Colombo] calculating controller checksum 9ce41b73a05ce48a820e44b52b6c5076
+[06-Oct-2023 11:57:51 Asia/Colombo] instantiating backup controller 1dd3313b2edd0540610aa088f31bde52
+[06-Oct-2023 11:57:51 Asia/Colombo] setting controller status to 100
+[06-Oct-2023 11:57:51 Asia/Colombo] loading controller plan
+[06-Oct-2023 11:57:51 Asia/Colombo] setting controller status to 300
+[06-Oct-2023 11:57:51 Asia/Colombo] applying plan defaults
+[06-Oct-2023 11:57:51 Asia/Colombo] setting controller status to 400
+[06-Oct-2023 11:57:51 Asia/Colombo] setting file inclusion to 
+[06-Oct-2023 11:57:51 Asia/Colombo] checking plan security
+[06-Oct-2023 11:57:51 Asia/Colombo] setting controller status to 500
+[06-Oct-2023 11:57:51 Asia/Colombo] checking plan security
+[06-Oct-2023 11:57:51 Asia/Colombo] checking plan security
+[06-Oct-2023 11:57:51 Asia/Colombo] checking plan security
+[06-Oct-2023 11:57:51 Asia/Colombo] saving controller to db
+[06-Oct-2023 11:57:51 Asia/Colombo] calculating controller checksum 8ad07796a1c314d9b44062166e0f4c97
+[21-Oct-2023 20:52:58 Asia/Colombo] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 32 of /backup/copyprogress.php: call to required_param()
+
+[21-Oct-2023 20:52:59 Asia/Colombo] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 0,
+)]
+Error code: invalidrecord
+* line 1654 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1630 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 611 of /lib/datalib.php: call to moodle_database->get_record()
+* line 35 of /backup/copyprogress.php: call to get_course()
+

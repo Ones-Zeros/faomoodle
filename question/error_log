@@ -1,0 +1,7 @@
+[25-Aug-2023 04:35:45 America/New_York] Default exception handler: කනගාටුයි, නමුත් ඒ සදහා (access question edit tab questions) දැනට ඔබට අවසර නොමැත. Debug: 
+Error code: nopermissions
+* line 219 of /question/classes/local/bank/question_edit_contexts.php: moodle_exception thrown
+* line 333 of /question/editlib.php: call to core_question\local\bank\question_edit_contexts->require_one_edit_tab_cap()
+* line 219 of /question/editlib.php: call to question_build_edit_resources()
+* line 30 of /question/edit.php: call to question_edit_setup()
+

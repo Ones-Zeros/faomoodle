@@ -1,0 +1,7 @@
+[21-Aug-2023 02:52:39 America/New_York] PHP Warning:  Undefined property: stdClass::$metadata in /home1/syedawab/public_html/faolms.nrtdcorp.com/contentbank/contenttype/h5p/classes/form/editor.php on line 155
+[21-Aug-2023 02:52:39 America/New_York] PHP Warning:  Attempt to read property "title" on null in /home1/syedawab/public_html/faolms.nrtdcorp.com/contentbank/contenttype/h5p/classes/form/editor.php on line 155
+[25-Aug-2023 04:35:09 America/New_York] Default exception handler: කනගාටුයි, නමුත් ඒ සදහා (Access the content bank) දැනට ඔබට අවසර නොමැත. Debug: 
+Error code: nopermissions
+* line 875 of /lib/accesslib.php: required_capability_exception thrown
+* line 38 of /contentbank/index.php: call to require_capability()
+

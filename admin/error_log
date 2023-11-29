@@ -1,0 +1,16 @@
+[31-Aug-2023 01:37:04 America/New_York] Default exception handler: අංශ දෝෂයකි! Debug: 
+Error code: sectionerror
+* line 26 of /admin/settings.php: moodle_exception thrown
+
+[04-Sep-2023 00:01:47 America/New_York] Default exception handler: අංශ දෝෂයකි! Debug: 
+Error code: sectionerror
+* line 26 of /admin/settings.php: moodle_exception thrown
+
+[04-Sep-2023 00:05:01 America/New_York] Default exception handler: අංශ දෝෂයකි! Debug: 
+Error code: sectionerror
+* line 26 of /admin/settings.php: moodle_exception thrown
+
+[04-Sep-2023 00:18:36 America/New_York] Default exception handler: අංශ දෝෂයකි! Debug: 
+Error code: sectionerror
+* line 26 of /admin/settings.php: moodle_exception thrown
+

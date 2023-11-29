@@ -1,0 +1,6 @@
+[30-Aug-2023 06:12:09 America/New_York] Default exception handler: Exception - Class "moodleform" not found Debug: 
+Error code: generalexceptionmessage
+* line 35 of /admin/tool/customlang/classes/form/import.php: Error thrown
+* line 144 of /lib/classes/component.php: call to include_once()
+* line 49 of /admin/tool/customlang/import.php: call to core_component::classloader()
+

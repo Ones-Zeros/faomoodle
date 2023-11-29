@@ -1,0 +1,4 @@
+[17-Aug-2023 06:32:55 America/New_York] Default exception handler: Sorry, there is no available data to display Debug: 
+Error code: nostatstodisplay
+* line 122 of /report/stats/user.php: moodle_exception thrown
+

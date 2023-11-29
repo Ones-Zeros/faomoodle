@@ -1,0 +1,15 @@
+[22-Aug-2023 06:47:18 America/New_York] PHP Warning:  Class "Facebook\WebDriver\WebDriverKeys" not found in /home1/syedawab/public_html/faolms.nrtdcorp.com/lib/behat/classes/behat_session_trait.php on line 44
+[22-Aug-2023 06:47:18 America/New_York] Default exception handler: Exception - Class "Behat\MinkExtension\Context\RawMinkContext" not found Debug: 
+Error code: generalexceptionmessage
+* line 52 of /lib/behat/behat_base.php: Error thrown
+* line 28 of /lib/behat/classes/behat_generator_base.php: call to require_once()
+* line 27 of /admin/tool/behat/renderer.php: call to require_once()
+* line 201 of /lib/outputfactories.php: call to include_once()
+* line 389 of /lib/outputfactories.php: call to renderer_factory_base->standard_renderer_classnames()
+* line 2452 of /lib/outputlib.php: call to theme_overridden_renderer_factory->get_renderer()
+* line 1006 of /lib/pagelib.php: call to theme_config->get_renderer()
+* line 261 of /lib/behat/classes/behat_command.php: call to moodle_page->get_renderer()
+* line 177 of /lib/behat/classes/behat_command.php: call to behat_command::output_msg()
+* line 53 of /admin/tool/behat/locallib.php: call to behat_command::behat_setup_problem()
+* line 42 of /admin/tool/behat/index.php: call to tool_behat::stepsdefinitions()
+

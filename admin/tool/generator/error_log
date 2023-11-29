@@ -1,0 +1,10 @@
+[17-Aug-2023 04:08:43 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error writing to database
+[17-Aug-2023 04:08:43 America/New_York] Potential coding error - active database transaction detected during request shutdown:
+* line 261 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->start_delegated_transaction()
+* line 124 of /course/modlib.php: call to mysqli_native_moodle_database->start_delegated_transaction()
+* line 278 of /lib/testing/generator/module_generator.php: call to add_moduleinfo()
+* line 74 of /mod/assign/tests/generator/lib.php: call to testing_module_generator->create_instance()
+* line 406 of /admin/tool/generator/classes/course_backend.php: call to mod_assign_generator->create_instance()
+* line 236 of /admin/tool/generator/classes/course_backend.php: call to tool_generator_course_backend->create_assignments()
+* line 68 of /admin/tool/generator/maketestcourse.php: call to tool_generator_course_backend->make()
+

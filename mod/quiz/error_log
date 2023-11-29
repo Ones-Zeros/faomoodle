@@ -1,0 +1,10 @@
+[21-Oct-2023 20:52:56 Asia/Colombo] Default exception handler: Can't find data record in database. Debug: SELECT quiz.*, seb.requiresafeexambrowser AS seb_requiresafeexambrowser, seb.showsebtaskbar AS seb_showsebtaskbar, seb.showwificontrol AS seb_showwificontrol, seb.showreloadbutton AS seb_showreloadbutton, seb.showtime AS seb_showtime, seb.showkeyboardlayout AS seb_showkeyboardlayout, seb.allowuserquitseb AS seb_allowuserquitseb, seb.quitpassword AS seb_quitpassword, seb.linkquitseb AS seb_linkquitseb, seb.userconfirmquit AS seb_userconfirmquit, seb.enableaudiocontrol AS seb_enableaudiocontrol, seb.muteonstartup AS seb_muteonstartup, seb.allowspellchecking AS seb_allowspellchecking, seb.allowreloadinexam AS seb_allowreloadinexam, seb.activateurlfiltering AS seb_activateurlfiltering, seb.filterembeddedcontent AS seb_filterembeddedcontent, seb.expressionsallowed AS seb_expressionsallowed, seb.regexallowed AS seb_regexallowed, seb.expressionsblocked AS seb_expressionsblocked, seb.regexblocked AS seb_regexblocked, seb.allowedbrowserexamkeys AS seb_allowedbrowserexamkeys, seb.showsebdownloadlink AS seb_showsebdownloadlink, sebtemplate.id AS seb_templateid  FROM {quiz} quiz LEFT JOIN {quizaccess_seb_quizsettings} seb ON seb.quizid = quiz.id LEFT JOIN {quizaccess_seb_template} sebtemplate ON seb.templateid = sebtemplate.id  WHERE quiz.id = :quizid
+[array (
+  'quizid' => 0,
+)]
+Error code: invalidrecordunknown
+* line 1682 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 271 of /mod/quiz/classes/access_manager.php: call to moodle_database->get_record_sql()
+* line 114 of /mod/quiz/classes/quiz_settings.php: call to mod_quiz\access_manager::load_quiz_and_settings()
+* line 40 of /mod/quiz/report.php: call to mod_quiz\quiz_settings::create()
+

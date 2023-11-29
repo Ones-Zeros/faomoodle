@@ -1,0 +1,84 @@
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4897 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4897 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4897 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4897 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4897 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4919 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:54 America/New_York] Default exception handler: Sorry, the requested file could not be found Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 4919 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[07-Sep-2023 18:45:57 America/New_York] Default exception handler: No valid arguments supplied or incorrect server configuration Debug: 
+Error code: invalidargorconf
+* line 4375 of /lib/filelib.php: moodle_exception thrown
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[05-Oct-2023 10:37:13 Asia/Colombo] Default exception handler: කනගාටුයි, ඉල්ලූ ගොනුව සොයාගත නොහැක Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 5294 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+
+[05-Oct-2023 10:38:15 Asia/Colombo] Default exception handler: කනගාටුයි, ඉල්ලූ ගොනුව සොයාගත නොහැක Debug: 
+Error code: filenotfound
+* line 2140 of /lib/filelib.php: moodle_exception thrown
+* line 5294 of /lib/filelib.php: call to send_file_not_found()
+* line 44 of /pluginfile.php: call to file_pluginfile()
+

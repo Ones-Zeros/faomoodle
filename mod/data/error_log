@@ -1,0 +1,9 @@
+[21-Oct-2023 20:52:55 Asia/Colombo] Default exception handler: Can't find data record in database table data. Debug: SELECT * FROM {data} WHERE id = ?
+[array (
+  0 => 0,
+)]
+Error code: invalidrecord
+* line 1654 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1630 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 44 of /mod/data/templates.php: call to moodle_database->get_record()
+

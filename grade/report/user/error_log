@@ -1,0 +1,5 @@
+[21-Oct-2023 20:52:54 Asia/Colombo] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 610 of /lib/moodlelib.php: moodle_exception thrown
+* line 30 of /grade/report/user/index.php: call to required_param()
+

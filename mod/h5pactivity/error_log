@@ -1,0 +1,26 @@
+[06-Oct-2023 15:19:27 Asia/Colombo] Default exception handler: Can't find data record in database. Debug: 
+                    SELECT c.*
+                      FROM {course_modules} cm
+                      JOIN {course} c ON c.id = cm.course
+                     WHERE cm.id = ?
+[array (
+  0 => 560,
+)]
+Error code: invalidrecordunknown
+* line 1682 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 2625 of /lib/modinfolib.php: call to moodle_database->get_record_sql()
+* line 35 of /mod/h5pactivity/view.php: call to get_course_and_cm_from_cmid()
+
+[06-Oct-2023 15:19:42 Asia/Colombo] Default exception handler: Can't find data record in database. Debug: 
+                    SELECT c.*
+                      FROM {course_modules} cm
+                      JOIN {course} c ON c.id = cm.course
+                     WHERE cm.id = ?
+[array (
+  0 => 561,
+)]
+Error code: invalidrecordunknown
+* line 1682 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 2625 of /lib/modinfolib.php: call to moodle_database->get_record_sql()
+* line 35 of /mod/h5pactivity/view.php: call to get_course_and_cm_from_cmid()
+
